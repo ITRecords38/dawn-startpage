@@ -6,7 +6,7 @@ const CONFIG = new Config({
   },
   overrideStorage: true,
   temperature: {
-    location: 'London, UK',
+    location: 'Grenoble, FR',
     scale: 'C'
   },
   clock: {
