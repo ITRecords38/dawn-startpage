@@ -1,6 +1,6 @@
 const components = {
   'search-bar': Search,
-  'todo-list': Test,
+  'todo-list': Todo,
   'status-bar': Statusbar,
   'crypto-rate': Crypto,
   'crypto-popup': CryptoPopup,
